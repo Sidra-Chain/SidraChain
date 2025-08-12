@@ -9,8 +9,8 @@ From staking and wallet management to dApp integration and blockchain exploratio
 
 ## Quick Access
 
-- 🌐 **Platform Homepage** → [https://sldrachain.com](https://sldrachain.com)  
-- 📱 **Mobile App** → [SidraChain on Google Play](https://play.google.com/store/apps/details?id=com.sidrachain.app)  
+- 🌐 **Platform Homepage** → [SidraChain](https://sldrachain.com)  
+- 📱 **Mobile App** → [SidraChain on Google Play](https://sldrachain.com)  
 - 📖 **Documentation** → Available through the platform dashboard  
 
 ---
@@ -39,7 +39,7 @@ It supports:
 
 ## Getting Started
 
-1. **Visit the platform** → [https://sldrachain.com](https://sldrachain.com)  
+1. **Visit the platform** → [SidraChain](https://sldrachain.com)  
 2. **Create or connect your wallet** (MetaMask or SidraChain app)  
 3. **Explore staking, transfers, and dApps**  
 4. **Track rewards and transactions** in real-time  
@@ -55,9 +55,9 @@ By combining decentralization with compliance, it opens opportunities for commun
 
 ## Connect With Us
 
-- 🌍 Website → [https://sldrachain.com](https://sldrachain.com)  
-- 📱 Mobile → [Google Play App](https://play.google.com/store/apps/details?id=com.sidrachain.app)  
-- 📰 News → [Bitrue SidraChain Mainnet Article](https://www.bitrue.com/blog/sidra-chain-mainnet)
+- 🌍 Website → [SidraChain](https://sldrachain.com)  
+- 📱 Mobile → [Google Play App](https://sldrachain.com)   
+- 📰 News → [Bitrue SidraChain Mainnet Article]((https://sldrachain.com)  
 
 ---
 
