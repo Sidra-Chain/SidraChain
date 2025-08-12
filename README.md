@@ -1,6 +1,6 @@
 # SidraChain Official Platform
 
-[![Visit SidraChain](https://img.shields.io/badge/Visit%20SidraChain-sldrachain.com-green?style=for-the-badge&logo=google-chrome)](https://sldrachain.com)
+[![Visit SidraChain](https://img.shields.io/badge/Visit%20SidraChain-sidrachain.com-green?style=for-the-badge&logo=google-chrome)](https://sldrachain.com)
 
 The **official SidraChain platform** — your gateway to a Shariah-compliant, EVM-compatible blockchain ecosystem.  
 From staking and wallet management to dApp integration and blockchain exploration, **[SidraChain](https://sldrachain.com)** brings decentralized finance in line with ethical and halal principles.
