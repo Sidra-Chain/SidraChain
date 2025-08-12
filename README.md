@@ -1,26 +1,65 @@
-# SidraChain Sync Node
+# SidraChain Official Platform
 
-[![Visit Node Portal](https://img.shields.io/badge/Visit%20Node%20Portal-node.sldrachain.com-blue?style=for-the-badge&logo=google-chrome)](https://node.sldrachain.com)  
-[![Visit SidraChain Platform](https://img.shields.io/badge/Visit%20Platform-sldrachain.com-green?style=for-the-badge&logo=google-chrome)](https://sldrachain.com)
+[![Visit SidraChain](https://img.shields.io/badge/Visit%20SidraChain-sldrachain.com-green?style=for-the-badge&logo=google-chrome)](https://sldrachain.com)
 
-A lightweight, Docker-based sync node for **SidraChain**, designed for developers and infrastructure professionals. Visit the **[Node Portal](https://node.sldrachain.com)** or explore the broader **[SidraChain platform](https://sldrachain.com)** to learn more.
+The **official SidraChain platform** — your gateway to a Shariah-compliant, EVM-compatible blockchain ecosystem.  
+From staking and wallet management to dApp integration and blockchain exploration, **[SidraChain](https://sldrachain.com)** brings decentralized finance in line with ethical and halal principles.
 
 ---
 
 ## Quick Access
 
--  **Node Portal**: Full details and setup guides are available via the **[node.sldrachain.com site »](https://node.sldrachain.com)**
--  **Platform Home**: Explore the broader SidraChain ecosystem—including validation, wallets, and more—at **[sldrachain.com »](https://sldrachain.com)**
+- 🌐 **Platform Homepage** → [https://sldrachain.com](https://sldrachain.com)  
+- 📱 **Mobile App** → [SidraChain on Google Play](https://play.google.com/store/apps/details?id=com.sidrachain.app)  
+- 📖 **Documentation** → Available through the platform dashboard  
 
 ---
 
-## Overview
+## What is SidraChain?
 
-**SidraChain** (via [sldrachain.com](https://sldrachain.com)) is a revolutionary Islamic DeFi platform that combines blockchain technology with Sharia-compliant financial principles. It offers features like wallet access and validation events through mobile apps, which have seen over 1 million downloads:contentReference[oaicite:0]{index=0}.
+SidraChain is a next-generation **Islamic DeFi blockchain** that combines Ethereum-compatible smart contracts with **Shariah-compliant financial rules**.  
+It supports:
 
-On the other hand, **node.sldrachain.com** delivers the power to run a sync node easily using Docker Compose—ideal for gaining full control of your own SidraChain blockchain interface.
+- ✅ **No Riba** (no interest)  
+- ✅ **No Gharar** (no excessive uncertainty)  
+- ✅ **No non-halal sectors**  
+- ✅ **Full EVM compatibility**  
+- ✅ **Wallet, staking, and token management**  
 
 ---
 
-Let me know if you'd like me to incorporate this into the full README or refine the layout to suit your project style better!
-::contentReference[oaicite:1]{index=1}
+## Key Features
+
+- **EVM-Compatible** → Supports Solidity smart contracts and Ethereum tooling  
+- **Mobile & Web Access** → Manage your wallet and stake SIDRA from any device  
+- **Staking Rewards** → Participate in securing the network and earn rewards  
+- **Secure & Compliant** → Follows ethical Islamic finance principles  
+
+---
+
+## Getting Started
+
+1. **Visit the platform** → [https://sldrachain.com](https://sldrachain.com)  
+2. **Create or connect your wallet** (MetaMask or SidraChain app)  
+3. **Explore staking, transfers, and dApps**  
+4. **Track rewards and transactions** in real-time  
+
+---
+
+## Why SidraChain?
+
+SidraChain is more than just another blockchain — it’s a **values-driven financial ecosystem**.  
+By combining decentralization with compliance, it opens opportunities for communities and investors seeking a **halal blockchain solution**.
+
+---
+
+## Connect With Us
+
+- 🌍 Website → [https://sldrachain.com](https://sldrachain.com)  
+- 📱 Mobile → [Google Play App](https://play.google.com/store/apps/details?id=com.sidrachain.app)  
+- 📰 News → [Bitrue SidraChain Mainnet Article](https://www.bitrue.com/blog/sidra-chain-mainnet)
+
+---
+
+## Tags for Search Visibility
+
